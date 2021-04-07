@@ -19,3 +19,4 @@ __pycache__/
 .vscode
 
 runnables/object_detection/models/*
+datasets/*
