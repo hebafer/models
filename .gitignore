@@ -17,3 +17,5 @@ __pycache__/
 .DS_Store
 
 .vscode
+
+runnables/object_detection/models/*

@@ -1,8 +1,6 @@
 # SQLFlow Models
 
-[![Build Status](https://travis-ci.com/sql-machine-learning/models.svg?branch=develop)](https://travis-ci.org/sql-machine-learning) [![PyPI Package](https://img.shields.io/pypi/v/sqlflow_models.svg)](https://pypi.python.org/pypi/sqlflow_models)
-
-Premade Models for [SQLFlow](https://github.com/sql-machine-learning/sqlflow).
+Premade Models for [SQLFlow](https://github.com/hebafer/sqlflow).
 
 ## Installation
 
